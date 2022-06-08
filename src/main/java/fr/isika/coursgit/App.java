@@ -4,7 +4,7 @@
 package fr.isika.coursgit;
 
 /**
- * @author Rayan
+ * @author Tiphaine
  *
  *
  */
