@@ -4,7 +4,7 @@
 package fr.isika.coursgit;
 
 /**
- * @author Patrice
+ * @author Aya
  *
  */
 public class App {
